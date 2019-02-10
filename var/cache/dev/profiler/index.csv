@@ -1,0 +1,5 @@
+3062f1,172.19.0.1,GET,http://localhost:8000/,1549829103,,404
+2e59bf,172.19.0.1,GET,http://localhost:8000/pizza,1549829154,,200
+27c5c0,172.19.0.1,GET,http://localhost:8000/pizza,1549829758,,200
+e64d74,172.19.0.1,GET,http://localhost:8000/lucky/number,1549829767,,200
+591b50,172.19.0.1,GET,http://localhost:8000/lucky/number,1549829941,,200
